@@ -1,5 +1,5 @@
 # Duals-research
-Research repository for studies of dual Medicare-Medicaid eligibles </br>
+<b> Research repository for studies of dual Medicare-Medicaid eligibles </b> </br>
 Date created: June 23, 2019 </br>
 Version: 1 </br>
 Author: Eric T. Roberts, Ph.D., University of Pittsburgh </br>
