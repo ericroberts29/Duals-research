@@ -21,3 +21,6 @@ Research projects and associated code/documentation are itemized by paper (paper
 * Eric T. Roberts, Jacqueline Welsh, Julie M. Donohue, Lindsay M. Sabik, "Association of State Policies with Medicaid Disenrollment among Low-Income Medicare Beneficiaries."  <it Health Affairs </i>, 2019 (in press).  DOI: to come.
   + SAS file setup code (sets up longitudinal cohorts of Medicaid enrollees among FFS Medicare beneficiaries): to come
   + STATA code (survival analyses implemented in STATA): to come
+  
+* Eric T. Roberts and Lindsay M. Sabik, "Receipt of Part D subsidies and Medicaid among low-income Medicare beneficiaries."  Research letter in preparation.
+  + STATA code: HRS Medicaid and LIS Enrollment Analyses 6-20-2019.do
