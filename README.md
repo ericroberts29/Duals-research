@@ -17,3 +17,7 @@ Research projects and associated code/documentation are itemized by paper (paper
 * Eric T. Roberts, Jennifer M. Mellor, Melissa McInerny, Lindsay M. Sabik, "State Variation in the Characteristics of Medicare-Medicaid Dual Enrollees: Implications for Risk Adjustment."  <i> Health Services Research </i>, 2019 (in press).  DOI: to come.
   + STATA code: MCBS Setup and Analyses 12-20-2018.do
   + Linked state policy variables (STATA dataset): state_policy_variables_10_13.dta
+  
+* Eric T. Roberts, Jacqueline Welsh, Julie M. Donohue, Lindsay M. Sabik, "Association of State Policies with Medicaid Disenrollment among Low-Income Medicare Beneficiaries."  <it Health Affairs </i>, 2019 (in press).  DOI: to come.
+  + SAS file setup code (sets up longitudinal cohorts of Medicaid enrollees among FFS Medicare beneficiaries): to come
+  + STATA code (survival analyses implemented in STATA): to come
