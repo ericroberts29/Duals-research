@@ -27,4 +27,4 @@ Research projects and associated code/documentation are itemized by paper (paper
   + STATA code (survival analyses implemented in STATA): to come
   
 * Eric T. Roberts and Lindsay M. Sabik, "Receipt of Part D subsidies and Medicaid among low-income Medicare beneficiaries."  Research letter in preparation.
-  + STATA code: HRS Medicaid and LIS Enrollment Analyses 6-20-2019.do
+  + STATA code: HRS Medicaid and LIS Enrollment Analyses 6-20-2019.do.  This program examines discontinuities in enrollment in the Medicare Part D Low-Income Subsidy (LIS) program as a function of Medicaid eligibility.
